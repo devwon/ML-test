@@ -1,6 +1,8 @@
 # ML-test
 스위프트(Swift4)와 Inception v3 모델을 이용한 이미지분류기 ios앱
 
+* ViewController.swift에 주석으로 잘 표기해놓았으니 참고바람.
+
 - Inception v3 모델
 https://developer.apple.com/kr/machine-learning/build-run-models/
 
